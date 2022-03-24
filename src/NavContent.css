@@ -1,0 +1,7 @@
+.loadmore-button{
+    cursor: pointer;
+    background-color: white;
+    border: none;
+    box-shadow: 0px 2px 7px black;
+    padding: 7px 25px;
+}

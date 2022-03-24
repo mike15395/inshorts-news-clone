@@ -1,0 +1,32 @@
+.news-image{
+    object-fit: cover;
+    width: 360px;
+    height: 250px;
+    padding: 20px;
+}
+.news-container{
+    display: flex;
+    width: 100%;
+    box-shadow: 0px 2px 5px gray;
+    margin-bottom: 25px;
+    margin-top: 25px;
+    
+}
+.news-text{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+.short-link{
+    text-decoration: none;
+    color: black;
+}
+
+.news-sub-title{
+     color: gray
+}
+
+.read-more{
+     text-decoration: none;
+    color: black;
+}
